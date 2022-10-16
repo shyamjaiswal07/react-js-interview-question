@@ -24,11 +24,7 @@ Learn to code and get hired with <a href="https://zerotomastery.io/?utm_source=g
 
 ---
 
-**Note:** This repository is specific to ReactJS. Please check [Javascript Interview questions](https://github.com/sudheerj/javascript-interview-questions) for core javascript questions.
-
-## Downloading PDF/Epub formats
-
-You can download the PDF and Epub version of this repository from the latest run on the [actions tab](https://github.com/sudheerj/reactjs-interview-questions/actions).
+**Note:** This repository is specific to ReactJS. Please check [Javascript Interview questions](https://github.com/shyamjaiswal07/javascript-interview-question/blob/main/README.md) for core javascript questions.
 
 ### Table of Contents
 
